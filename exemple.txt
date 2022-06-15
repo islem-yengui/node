@@ -1,0 +1,23 @@
+// console.log("hello")
+// let x = 5
+// let y = 10 
+// console.log(x+y)
+// const add = require('./addition')
+
+// // node js modules
+// // global , local , third party
+// const http = require('http');
+// // http module is used for web based operation
+
+// const hostname = '127.0.0.1';
+// const port = 3000;
+// // node js is asynchronus === callback functions
+// const server = http.createServer((req, res) => {
+//   res.statusCode = 200;
+//   res.setHeader('Content-Type', 'text/plain');
+//   res.end('Hello World');
+// });
+
+// server.listen(port, hostname, () => {
+//   console.log(`Server running at http://${hostname}:${port}/`);
+// });
